@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "projectather.aternos.me",
+    "ip": "jewelfish.aternos.host:43997",
     "port": 43997,
     "version": "",
     "try-creative": false
