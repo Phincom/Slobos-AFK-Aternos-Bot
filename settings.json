@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "jewelfish.aternos.host:43997",
-    "port": 43997,
+    "port": ,
     "version": "",
     "try-creative": false
   },
